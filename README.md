@@ -5,11 +5,17 @@ Build a First API with # DjangoRestFramework
 1. Set up Django
     <br>
     $ cd folder
+    <br>
     $ virtualenv virtenv
+    <br>
     $ source virtenv/bin/activate
+    <br>
     $ pip install -r requirements.txt
+    <br>
     $ python manage.py makemigrations
+    <br>
     $ python manage.py migrate
+    <br>
     $ python manage.py runserver
     <br>
 2. Create a model in the database that the Django ORM will manage
