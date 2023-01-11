@@ -10,4 +10,4 @@ class HeroSerializer(serializers.HyperlinkedModelSerializer):
         #model attribute as 'Hero
         model = Hero
         # fields attribute
-        fields = ('name', 'alias')
+        fields = ('id', 'name', 'alias')
