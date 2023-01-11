@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from .serializers import HeroSerializer
 from .models import Hero
+from rest_framework import viewsets
 
 # Create your views here.
 # class that provides a default set of CRUD using ModelViewSet
