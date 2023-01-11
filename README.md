@@ -22,3 +22,9 @@ Build a First API with # DjangoRestFramework
 3. Set up the Django REST Framework
 4. Serialize the model from step 2
 5. Create the URI endpoints to view the serialized data
+
+*Technology Stack*
+Tools used during the development of this API are;
+1. Django - a python web framework
+2. Django REST Framework - a flexible toolkit to build web APIs
+3. SQLite - this is a database server
